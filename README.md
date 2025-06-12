@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lucas Spartacus</h1>
 <h3 align="center">A passionate Full Stack developer from Brazil</h3>
 
-- 🔭 I’m currently working on **JavaScript/TypeScript, React, Next and Python**
+- 👀 I’m currently working on **JavaScript/TypeScript, React, Next and Python**
 
 - 🌱 I’m currently learning **Angular, Django**
 
-- 👯 I’m looking to collaborate on **Full Stack web development Using Python and JavaScript**
+- 💞️ I’m looking to collaborate on **Full Stack web development Using Python and JavaScript**
 
 - 📫 How to reach me **lucasspartacus@gmail.com**
   
